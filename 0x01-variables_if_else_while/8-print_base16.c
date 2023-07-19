@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char alph = 'a'
+	char alph = 'a';
 	int n = 0;
 
 	while (n < 10)
